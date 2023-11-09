@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">League Of Legend</string>
+
+    <string name="top_indo">Top Hero League Of Legend</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+    <string name="about">About</string>
+    <string name="nama">Shendy Candra Sukma Buana</string>
+    <string name="email">shendy.csb@gmail.com</string>
+    <string-array name="data_name">
+        <item>Aatrox</item>
+        <item>Ahri</item>
+        <item>Akali</item>
+        <item>Ashe</item>
+        <item>Brand</item>
+        <item>Braum</item>
+        <item>Caitlyn</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Namanya adalah Aatrox. Dia berada di garis depan setiap konflik bertujuan mulia. Dia begitu mulia dan adil hingga God-Warrior lain selalu mengikutinya, dan sepuluh ribu manusia Shurima berbaris di belakangnya. Ketika Setaka, the Ascended warrior-queen, meminta bantuannya melawan pemberontakan di Icathia, Aatrox menjawabnya tanpa ragu.</item>
+        <item>Ahri pertama kali bertemu dengan manusia ketika gerombolan tentara berkumpul di dekat sarangnya. Perilaku mereka begitu aneh untuk Ahri,. Penasaran, Ahri mengamati mereka dari kejauhan. Perhatiannya sangat tertuju pada sosok pemimpin, yang tidak seperti yang lainnya, memiliki beberapa anggota tubuh hewan sepertinya. Hal itu membuatnya teringat akan keluarga rubahnya.</item>
+        <item>Dia adalah petarung jenius, dan menguasai Kama dan Kunai—sabit satu tangan dan pisau lempar. Meski dia tidak menguasai kemampuan sihir seperti pendeta lainnya, dia membuktikan pada semuanya kalau dua pantas mengemban titel tersebut, hingga suatu saat ibunya turun takhta dan mengajari pendeta muda.</item>
+        <item>Ashe berpaling untuk menghadapi pembunuh - pembunuh yang mengejarnya. Dia menarik busur panahnya, dan dengan nalurinya, menciptakan sebuah panah es dari udara di sekelilingnya. Hanya dengan satu tembakan panah, dia mengakhiri pemberontakan atas dirinya. Dengan hati - hati Ashe mengganti batu tersebut, mengucapkan terima kasih pada Avarosa untuk hadiah yang diberikannya, dan pulang kembali ke sukunya. Anggota dari suku Ashe dengan segera mengenali senjata tersebut sebagai berkah yang diberikan oleh Ratu Freljord, Avarosa itu sendiri.</item>
+        <item>Setelah bertahan hidup di musim dingin tanpa akhir, tubuh rentan ibunya akhirnya menyerah. Saat Kegan menyebarkan abu ibunya, dia memikirkan orang-orang yang telah disembuhkan oleh ibunya. Tidak ada dari mereka yang datang untuk berbelasungkawa. Dia tahu mereka ingin dia menghilang di udara dingin juga.</item>
+        <item>Diberkati dengan otot yang kuat dan jiwa pemberani serta kumis yang dibiarkan tumbuh begitu saja, Braum begitu sangat dicintai oleh semua orang.</item>
+        <item>King adalah Seperti namanya, King adalah seorang pria bertubuh besar yang mengesankan dan disebut-sebut sebagai orang terkuat di dunia One Punch Man, menempati posisi ketujuh di kelas pahlawan S. Rekan-rekannya sangat menghormatinya, tetapi dia menyembunyikan rahasia besar: dia sebenarnya adalah seorang penipu.</item>
+    </string-array>
+    //harus diisi
+    <string-array name="data_keterangan">
+        <item>Disalah artikan sebagai iblis atau dewa, banyak kisah yang bercerita tentang Darkin Blade tapi hanya sedikit yang mengetahui nama sebenarnya, atau kisah kematiannya. Di zaman dahulu, sebelum pasir menelan seluruh kerajaan itu, seorang Champion of Shurima yang hebat dibawa ke hadapan Sun Disc untuk menjadi perwujudan idealism agung yang terlupakan. Dibuat menjadi salah satu the Ascended, sayapnya adala cahaya keemasan di saat fajar, dan armornya berkilauan seperti gugusan bintang harapan di antara kegelapan.</item>
+        <item>Terhubung dengan kekuatan terpendam Runterra, Ahri adalah bangsa Vastaya yang bisa mengubah sihir menjadi sebuah bola energi. Dia gemar bermain dengan mangsanya melalui sebuah manipulasi emosi yang perlahan malah melahap kehidupan mereka sendiri. Di samping insting predator alaminya, Ahri selalu merasakan empati dari memori yang dia rebut dari setiap jiwa yang dia konsumsi.</item>
+        <item>Tapi jiwa akali merasa tidak nyaman, dan matanya terbuka lebar. Meski Kinkou dan Order of Shadow menemukan sedikit kecocokan di tengah invasi Noxus ke Ionia, dia melihat kampong halamannya terus menderita. Dia mempertanyakan apakah mereka benar-benar menjalankan tujuan mereka. Memangkas Pohon memiliki arti melenyapkan mereka yang mengancam keseimbangan suci tapi Shen selalui bergeming</item>
+        <item>Dengan busur di tangannya dan mimpinya untuk kedamaian di seluruh Freljord, suku Ashe berkembang dengan pesat, dengan segera menjadi yang terbesar di Freljord. Suku yang dikenal sebagai Avarosan ini, berdiri bersama untuk mengejar tujuan yang sama, Frejlord yang bersatu untuk mencapai kejayaan masa lalu sekali lagi.</item>
+        <item>Setelah bertahan hidup di musim dingin tanpa akhir, tubuh rentan ibunya akhirnya menyerah. Saat Kegan menyebarkan abu ibunya, dia memikirkan orang-orang yang telah disembuhkan oleh ibunya. Tidak ada dari mereka yang datang untuk berbelasungkawa. Dia tahu mereka ingin dia menghilang di udara dingin juga.</item>
+        <item>Semua orang tahu tentang kekuatan legendaris yang dimiliknya, membawa keadilan ke dalam senyumannya. Diberkati dengan sebuah tameng besar dan berat yang selalu dia bawa, dia berkeliling dunia membawa kebaikan pada teman dan juga musuh.</item>
+        <item>Terlahir di keluarga kaya raya dan berpengaruh di Piltover yang beranggotakan Artificer bidang Hextech, Caitlyn dengan cepat mempelajari gemerlapnya kehidupan sosial perkotaan, namun dia memilih untuk menghabiskan waktu di alam liar daerah selatan. Berbekal kemampuan berbaur dengan kaum berada di City of Progress yang sama baiknya dengan kemampuan berburu rusa melewati daerah hutan berlumpur, Caitlyn menghabiskan masa mudanya di luar gerbang Piltover.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aatrox</item>
+        <item>@drawable/ahri</item>
+        <item>@drawable/akali</item>
+        <item>@drawable/ashe</item>
+        <item>@drawable/brand</item>
+        <item>@drawable/braum</item>
+        <item>@drawable/caitlyn</item>
+    </integer-array>
+
+</resources>
